@@ -4,7 +4,7 @@ wheel
 pygments
 ffmpeg-python
 pymongo
-Pillow>=9.0.0
+Pillow>=10.0.1
 pytube
 click
 pymongo[srv]
